@@ -8,5 +8,6 @@ package com.zengziyu;
 public class GitStart {
     public static void main(String[] args) {
         System.out.println("first add on github...");
+        System.out.println("first add on master...");
     }
 }
