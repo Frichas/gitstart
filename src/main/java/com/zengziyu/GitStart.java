@@ -9,6 +9,6 @@ public class GitStart {
     public static void main(String[] args) {
         System.out.println("first add on github...");
         System.out.println("first add on master...");
-        System.out.println("新建功能");
+        System.out.println("重新给你更新了下");
     }
 }
